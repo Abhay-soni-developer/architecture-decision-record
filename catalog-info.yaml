@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: architecture-decision-record
+  annotations:
+    github.com/project-slug: Abhay-soni-developer/architecture-decision-record
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
