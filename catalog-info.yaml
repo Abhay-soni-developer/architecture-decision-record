@@ -4,8 +4,8 @@ metadata:
   name: architecture-decision-record
   annotations:
     github.com/project-slug: Abhay-soni-developer/architecture-decision-record
-    backstage.io/adr-location: examples/
+    backstage.io/adr-location: ./examples
 spec:
-  type: other
+  type: adr
   lifecycle: unknown
   owner: backstage
