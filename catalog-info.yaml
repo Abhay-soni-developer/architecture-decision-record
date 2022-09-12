@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: Abhay-soni-developer/architecture-decision-record
     backstage.io/adr-location: examples
 spec:
-  type: adr
+  type: service
   lifecycle: unknown
   owner: backstage
